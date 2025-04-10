@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449723905504",
+    "project_id": "survivalhardcorefirebase",
+    "storage_bucket": "survivalhardcorefirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449723905504:android:f1876cb7d7c9cb36e42785",
+        "android_client_info": {
+          "package_name": "com.iss.survivalhardcore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmKvuGirxN9Y9qKEOSJPoSp6BIBxved9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

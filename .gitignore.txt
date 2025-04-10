@@ -1,0 +1,32 @@
+# Archivos y carpetas que Unity vuelve a generar
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio y Rider
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Archivos grandes y empaquetados
+*.apk
+*.aab
+*.zip
+*.exe
+*.dll
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

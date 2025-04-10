@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|c:\\users\\jacorcete\\survival hardcore\\assets\\scripts\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirebaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\FirebaseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirebaseController.cs",
+              "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\FirebaseController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirebaseController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIA2wEcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:00:58.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
