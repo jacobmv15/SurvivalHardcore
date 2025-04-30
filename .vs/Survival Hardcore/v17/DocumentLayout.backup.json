@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|c:\\users\\jacorcete\\survival hardcore\\assets\\scripts\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|c:\\users\\jacorcete\\survival hardcore\\assets\\scripts\\arrastrarysoltar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arrastrarysoltar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|c:\\users\\jacorcete\\survival hardcore\\assets\\scripts\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|C:\\Users\\Jacorcete\\Survival Hardcore\\assets\\scripts\\objetosinteractuables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objetosinteractuables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|C:\\Users\\Jacorcete\\Survival Hardcore\\assets\\scripts\\controladorseleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controladorseleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|C:\\Users\\Jacorcete\\Survival Hardcore\\assets\\scripts\\movimientoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|C:\\Users\\Jacorcete\\Survival Hardcore\\assets\\scripts\\movimientoraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientoraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|C:\\Users\\Jacorcete\\Survival Hardcore\\assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|C:\\Users\\Jacorcete\\Survival Hardcore\\assets\\scripts\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AF9EAB2-F16A-6A4D-4AEA-6755C79DCAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +42,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:52:18.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrastrarYSoltar.cs",
+              "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\ArrastrarYSoltar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArrastrarYSoltar.cs",
+              "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\ArrastrarYSoltar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArrastrarYSoltar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:49:41.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimientoIA.cs",
+              "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\MovimientoIA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoIA.cs",
+              "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\MovimientoIA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoIA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:59:16.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjetosInteractuables.cs",
+              "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\ObjetosInteractuables.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjetosInteractuables.cs",
+              "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\ObjetosInteractuables.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjetosInteractuables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:57:12.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControladorSeleccion.cs",
+              "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\ControladorSeleccion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControladorSeleccion.cs",
+              "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\ControladorSeleccion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControladorSeleccion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:53:43.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimientoRaton.cs",
+              "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\MovimientoRaton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoRaton.cs",
+              "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\MovimientoRaton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoRaton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:38:09.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovimientoJugador.cs",
+              "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\MovimientoJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoJugador.cs",
+              "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\MovimientoJugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoJugador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:37:20.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FirebaseController.cs",
               "DocumentMoniker": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\FirebaseController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FirebaseController.cs",
               "ToolTip": "C:\\Users\\Jacorcete\\Survival Hardcore\\Assets\\Scripts\\FirebaseController.cs",
               "RelativeToolTip": "Assets\\Scripts\\FirebaseController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAIA2wEcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAADwv6UAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T17:00:58.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T17:00:58.943Z"
             }
           ]
         }

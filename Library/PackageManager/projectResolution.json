@@ -9,6 +9,16 @@
     "E:\\Program Files\\Unity\\Hub\\Editor\\6000.0.45f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.2d.sprite@072d7bd355e5",
+      "fingerprint": "072d7bd355e55ee3ded20a6a52435a4f5fded0d8",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.ai.navigation@2.0.6": {
       "name": "com.unity.ai.navigation",
       "displayName": "AI Navigation",
@@ -49,6 +59,16 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.ide.vscode@1.2.4": {
+      "name": "com.unity.ide.vscode",
+      "displayName": "Visual Studio Code Editor",
+      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.ide.vscode@eb5de66d4c77",
+      "fingerprint": "eb5de66d4c77580302e328d62de70e3074f61721",
+      "editorCompatibility": "2019.2.0a12",
+      "version": "1.2.4",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.inputsystem@1.14.0": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
@@ -56,6 +76,16 @@
       "fingerprint": "7fe8299111a78212d8968229ab41a82e4991ba25",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.14.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.mathematics@1.3.2": {
+      "name": "com.unity.mathematics",
+      "displayName": "Mathematics",
+      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
+      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.2",
       "source": "registry",
       "testable": false
     },
@@ -69,11 +99,31 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.render-pipelines.high-definition@17.0.4": {
+      "name": "com.unity.render-pipelines.high-definition",
+      "displayName": "High Definition RP",
+      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@b8a08a7bb5c3",
+      "fingerprint": "b8a08a7bb5c383446c8f0530a7f924d593692bb3",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.render-pipelines.universal@17.0.4": {
       "name": "com.unity.render-pipelines.universal",
       "displayName": "Universal RP",
       "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.render-pipelines.universal@9c8ceca205de",
       "fingerprint": "9c8ceca205dee8b64d7e215b343c6d1bc8ff1ba7",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.shadergraph@17.0.4": {
+      "name": "com.unity.shadergraph",
+      "displayName": "Shader Graph",
+      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.shadergraph@bbf164badec6",
+      "fingerprint": "bbf164badec6da0a945c5b009463f82b6aaf7934",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.4",
       "source": "builtin",
@@ -411,14 +461,14 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.shadergraph@17.0.4": {
-      "name": "com.unity.shadergraph",
-      "displayName": "Shader Graph",
-      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.shadergraph@bbf164badec6",
-      "fingerprint": "bbf164badec6da0a945c5b009463f82b6aaf7934",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.4",
-      "source": "builtin",
+    "com.unity.searcher@4.9.3": {
+      "name": "com.unity.searcher",
+      "displayName": "Searcher",
+      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
+      "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
+      "editorCompatibility": "2019.1.0a1",
+      "version": "4.9.3",
+      "source": "registry",
       "testable": false
     },
     "com.unity.render-pipelines.universal-config@17.0.3": {
@@ -431,14 +481,24 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.searcher@4.9.3": {
-      "name": "com.unity.searcher",
-      "displayName": "Searcher",
-      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
-      "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
-      "editorCompatibility": "2019.1.0a1",
-      "version": "4.9.3",
-      "source": "registry",
+    "com.unity.visualeffectgraph@17.0.4": {
+      "name": "com.unity.visualeffectgraph",
+      "displayName": "Visual Effect Graph",
+      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.visualeffectgraph@36f18d47d768",
+      "fingerprint": "36f18d47d76824d3e820be7c052eb04b457150a8",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.render-pipelines.high-definition-config@17.0.4": {
+      "name": "com.unity.render-pipelines.high-definition-config",
+      "displayName": "High Definition RP Config",
+      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.render-pipelines.high-definition-config@88d6678364c9",
+      "fingerprint": "88d6678364c971316dc9885a738d3462b1306ad0",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.4",
+      "source": "builtin",
       "testable": false
     },
     "com.unity.burst@1.8.19": {
@@ -448,16 +508,6 @@
       "fingerprint": "7a907cf5a4591e4e25f4203e3be84f240058c34d",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.8.19",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.mathematics@1.3.2": {
-      "name": "com.unity.mathematics",
-      "displayName": "Mathematics",
-      "resolvedPath": "C:\\Users\\Jacorcete\\Survival Hardcore\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
-      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.3.2",
       "source": "registry",
       "testable": false
     },
